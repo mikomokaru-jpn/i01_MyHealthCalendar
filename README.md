@@ -1,6 +1,10 @@
 ## ios_i01_MyHealthCalendar
 ## Blood pressure management calendar
 
+
+<img class="lm10 tm0 bm0" src="http://mikomokaru.sakura.ne.jp/data/85/image01.png" alt="image01" title="image01" width="250">
+
+
 Confirmed operation: MacOS 10.14.6 simulator / Xcode 11.3.1
 
 I have created an iOS application for the first time. I have created an iOS application for the first time. l have not gotten used to using StoryBoard, so I created custom views and controls programmatically in ViewController, just like the PC version.
