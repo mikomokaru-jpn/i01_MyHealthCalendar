@@ -1,1 +1,10 @@
-# i01_MyHealthCalendar
+## ios_i01_MyHealthCalendar
+## Blood pressure management calendar
+
+Confirmed operation: MacOS 10.14.6 simulator / Xcode 11.3.1
+
+I have created an iOS application for the first time. I have created an iOS application for the first time. l have not gotten used to using StoryBoard, so I created custom views and controls programmatically in ViewController, just like the PC version.
+
+Overall, I think iOS is more straightforward to program than MacOS. For example, for iOS you can easily change the background color of a view by changing UIView.backgroundcolor property. There was no such property for MacOS, and you have to create a subclass of NSView and draw graphics , or use CALayer object.
+
+I have the impression that it has significantly improved some weaknesses and unfriendlyness of the MacOS framework.
