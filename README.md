@@ -4,6 +4,8 @@
 
 <img class="lm10 tm0 bm0" src="http://mikomokaru.sakura.ne.jp/data/85/image01.png" alt="image01" title="image01" width="250">
 
+<img class="lm10 tm0 bm0" src="http://mikomokaru.sakura.ne.jp/data/85/image02.png" alt="image02" title="image02" width="250">
+
 
 Confirmed operation: MacOS 10.14.6 simulator / Xcode 11.3.1
 
