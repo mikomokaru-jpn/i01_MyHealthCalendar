@@ -15,3 +15,5 @@ Overall, I think iOS is more straightforward to program than MacOS. For example,
 
 I have the impression that it has significantly improved some weaknesses and unfriendlyness of the MacOS framework.
 
+## Class Structure Diagram
+<img class="lm10 tm0 bm0" src="http://mikomokaru.sakura.ne.jp/data85/85_calendar01.png" alt="Diagram" title="Diagram" width="500">
