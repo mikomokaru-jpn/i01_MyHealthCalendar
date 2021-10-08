@@ -14,3 +14,4 @@ I have created an iOS application for the first time. I have created an iOS appl
 Overall, I think iOS is more straightforward to program than MacOS. For example, for iOS you can easily change the background color of a view by changing UIView.backgroundcolor property. There was no such property for MacOS, and you have to create a subclass of NSView and draw graphics , or use CALayer object.
 
 I have the impression that it has significantly improved some weaknesses and unfriendlyness of the MacOS framework.
+
